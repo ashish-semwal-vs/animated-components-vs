@@ -11,11 +11,13 @@ npm install animated-components-vs
 ## Usage
 
 ```js
-import { multiply } from 'animated-components-vs';
+import { TriDotLoader } from 'animated-components-vs';
 
 // ...
 
-const result = await multiply(3, 7);
+<TriDotLoader />;
+
+<TriDotLoader color="red" loaderPreset={TriDotLoaderPreset.Large} />;
 ```
 
 ## Contributing

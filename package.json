@@ -43,7 +43,7 @@
     "type": "git",
     "url": "git+https://github.com/vectoscalar/react-native-vs-animated-component.git.git"
   },
-  "author": "Vectoscalar <ashish.semwal@vectoscalar.com> (https://github.com/ashish-semwal-vs)",
+  "author": "Sagar10 <sagar.manocha@vectoscalar.com> (https://github.com/sagar-vs)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/vectoscalar/react-native-vs-animated-component.git/issues"
@@ -156,5 +156,8 @@
         }
       ]
     ]
+  },
+  "dependencies": {
+    "react-native-reanimated": "^3.8.1"
   }
 }
