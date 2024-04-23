@@ -41,7 +41,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ashish-semwal-vs/animated-components-vs.git"
+    "url": "git+https://github.com/vectoscalar/react-native-vs-animated-component.git"
   },
   "author": "Sagar10 <sagar.manocha@vectoscalar.com> (https://github.com/sagar-vs)",
   "license": "MIT",
