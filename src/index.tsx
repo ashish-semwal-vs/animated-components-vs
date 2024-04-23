@@ -17,4 +17,4 @@
 //       }
 //     );
 
-export * from './components';
+export { default as TriDotLoader } from './components/tri-dot-loader/TriDotLoader';
